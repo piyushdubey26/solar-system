@@ -18,5 +18,6 @@ This project is a 3D interactive Solar System simulation using **Three.js**.
 2. Open `index.html` in any modern browser (Chrome/Edge/Firefox).
 
 No server or installation is required.
+thank you
 
 ## 📦 Folder Structure
